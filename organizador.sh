@@ -1,4 +1,5 @@
 #!/bin/bash
+# Script mejorado con validación de directorios
 # Script organizador de archivos
 echo "Bienvenido al organizador de archivos"
 # Validación del directorio
